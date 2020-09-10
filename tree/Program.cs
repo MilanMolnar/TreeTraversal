@@ -71,6 +71,7 @@ namespace tree
             return A;
         }
         
+        //Find node by id
         static void Find(String id, Node node)
         {
             foreach (var child in node.Children)
@@ -83,7 +84,8 @@ namespace tree
               
             }
         }
-
+        
+        //Collect children of a node
         static void Collect(Node node)
         {
             foreach (var child in node.Children)
