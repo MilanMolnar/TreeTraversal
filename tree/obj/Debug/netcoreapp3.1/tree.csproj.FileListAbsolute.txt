@@ -1,0 +1,11 @@
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\bin\Debug\netcoreapp3.1\tree.exe
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\bin\Debug\netcoreapp3.1\tree.deps.json
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\bin\Debug\netcoreapp3.1\tree.runtimeconfig.json
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\bin\Debug\netcoreapp3.1\tree.runtimeconfig.dev.json
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\bin\Debug\netcoreapp3.1\tree.dll
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\bin\Debug\netcoreapp3.1\tree.pdb
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\obj\Debug\netcoreapp3.1\tree.csprojAssemblyReference.cache
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\obj\Debug\netcoreapp3.1\tree.AssemblyInfoInputs.cache
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\obj\Debug\netcoreapp3.1\tree.AssemblyInfo.cs
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\obj\Debug\netcoreapp3.1\tree.dll
+C:\Users\nevie\Desktop\tree-traversas\tree\tree\obj\Debug\netcoreapp3.1\tree.pdb
